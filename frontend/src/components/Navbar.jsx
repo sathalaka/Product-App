@@ -17,7 +17,7 @@ const Navbar = () => {
         <div>
           <a
             href="/create"
-            className="flex items-center bg-yellow-400 text-blue-900 font-semibold px-5 py-2 rounded-full shadow-md hover:bg-yellow-500 hover:shadow-lg transition duration-300"
+            className="flex items-center bg-red-500 text-white font-semibold px-5 py-2 rounded-full shadow-md hover:bg-red-600 hover:shadow-lg transition duration-300"
           >
             <FaPlus className="mr-2" /> {/* Plus Icon */}
             Create
